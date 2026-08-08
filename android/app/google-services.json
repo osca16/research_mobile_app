@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "918277831940",
+    "project_id": "ui-radar",
+    "storage_bucket": "ui-radar.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918277831940:android:f59c79a6d8ed2d7db9e451",
+        "android_client_info": {
+          "package_name": "com.example.research_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAercXcIYEV1rv5jXIX8HDNPtuyhb7D7yU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
